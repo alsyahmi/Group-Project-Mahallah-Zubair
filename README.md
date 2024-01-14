@@ -7,10 +7,10 @@ GROUP MEMBERS:
 
 WEBSITE FOR MAHALLAH ZUBAIR
 
-The website include:
+The website includes:
 - Embedded API URL (Google Maps)
 - Scroll to top Javascript
 - Main page, About Us, Events, Contact (HTML & CSS)
 - Images source
-- website cdnjs for Social Media Icon (Facebook, Instagram)
-- Google fonts 
+- Social Media Icon (Facebook, Instagram) from cdnjs
+- Fonts from Google
