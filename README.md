@@ -8,7 +8,9 @@ GROUP MEMBERS:
 WEBSITE FOR MAHALLAH ZUBAIR
 
 The website include:
-- Embeded API URL (Google Maps)
+- Embedded API URL (Google Maps)
 - Scroll to top Javascript
 - Main page, About Us, Events, Contact (HTML & CSS)
 - Images source
+- website cdnjs for Social Media Icon (Facebook, Instagram)
+- Google fonts 
